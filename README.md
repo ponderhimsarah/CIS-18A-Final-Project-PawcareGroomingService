@@ -18,7 +18,7 @@ To run this program, open or Copy/Paste the files in a java editor, assemble it,
 
 This is a program written in the Java language. 
 
-In short, this program works by accepting inputs from the user after a series of prompts. The first input is handled by a switch statement, which creates an object to access a method that corresponds to the user's input choice. Inside these methods, a series of prompts, handled mostly by if statements, if/else statements, and do-while loops, are again displayed and input received. The user's choices are also gradually written into a text file as they are received. More objects are created and more methods are access to display more prompts and receive more input to include in the text file summary. Finally, a thank you message is displayed, followed by a similar message being written into the text file, marking the end of the program. 
+In short, this program works by accepting inputs from the user after a series of prompts. The first input is handled by a switch statement, which creates an object to access a method that corresponds to the user's input choice. Inside these methods, a series of prompts, handled and validated mostly by if statements, if/else statements, and do-while loops, are again displayed and input received. The user's choices are also gradually summarized in a text file as they are provided. More objects are created and more methods are accessed to display more prompts and receive more input to include in the text file summary. Finally, a thank you message is displayed, followed by a similar message being written into the text file, marking the end of the program. 
 
 # Why is this program useful?
 
